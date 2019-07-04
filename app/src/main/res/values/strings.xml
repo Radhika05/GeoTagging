@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Geo Tagging</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="permission_message">Permission Not Granted</string>
+    <string name="ok">@android:string/ok</string>
+    <string name="cancel">@android:string/cancel</string>
+    <string name="image_marker">Do you want to insert image on this marker?</string>
+    <string name="message">Note: Long press to add marker</string>
+    <string name="save_marker">Save Marker</string>
+    <string name="add_marker_error">Please add at least 1 marker.</string>
+    <string name="go_back">Go Back</string>
+    <string name="internet_connection">Please check your internet connection and try again.</string>
+</resources>
